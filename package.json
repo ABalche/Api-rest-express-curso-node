@@ -1,0 +1,22 @@
+{
+  "name": "05---express1",
+  "version": "1.0.0",
+  "description": "express api ",
+  "main": "index.js",
+  "devDependencies": {
+    "prettier": "2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "armando b",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6",
+    "debug": "^2.6.9",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
+    "morgan": "^1.10.0"
+  }
+}
